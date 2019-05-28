@@ -27,9 +27,9 @@
             <i class="dropdown icon"></i>
             <div class="menu">
                 <a class="item" href="{{route('route.comandos')}}"><i class="edit icon"></i> Comandos CMD de laravel</a>
-                <a class="item"><i class="globe icon"></i> Crear un proyecto</a>
-                <a class="item"><i class="settings icon"></i> Routes en laravel</a>
-                <a class="item"><i class="settings icon"></i> Controladores</a>
+                <a class="item" href="{{route('route.crear')}}"><i class="globe icon"></i>Creacion de un proyecto</a>
+                <a class="item" href="{{route('route.routes')}}"><i class="settings icon"></i> Routes en laravel</a>
+                <a class="item" href="{{route('route.controladores')}}"><i class="settings icon"></i> Controladores</a>
             </div>
         </div>
 

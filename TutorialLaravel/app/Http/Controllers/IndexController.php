@@ -23,4 +23,16 @@ class IndexController extends Controller
         $titulo='Comandos de Laravel';
         return view('Comandos',compact('titulo'));
     }
+    public function crear(){
+        $titulo='Creacion de Proyectos';
+        return view('proyecto',compact('titulo'));
+    }
+    public function routes(){
+        $titulo='Tipos de Rutas';
+        return view('routes',compact('titulo'));
+    }
+    public function controladores(){
+        $titulo='Creacion de controladores';
+        return view('controladores',compact('titulo'));
+    }
 }

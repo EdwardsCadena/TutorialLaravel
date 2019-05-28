@@ -5,7 +5,7 @@
     <div class="ui vertical stripe segment">
         <div class="ui text container">
             <div class="ui center aligned page text container">
-            <h1 class="ui header">Requisitos del Sistema</h1>
+            <h1>Requisitos del Sistema</h1>
             </div>
             <br>
             <p>
@@ -69,7 +69,7 @@
             <p>Al oprimir enter les debera aparecer el siguiente</p>
             <img src="img/reque/version.png" class="ui big image" alt="">
             <br>
-            <p>Si ya el sistema posee un <CODE> PHP </CODE> menor al requqerido puedo utilizar cualquiera de las sihuiente opciones: </p>
+            <p>Si ya el sistema posee un <CODE> PHP </CODE> menor al requerido puedo utilizar cualquiera de las siguientes opciones: </p>
             <div class="ui vertical stripe quote segment">
                 <div class="ui equal width stackable internally celled grid">
                     <div class="center aligned row">
@@ -93,7 +93,7 @@
                 </div>
             </div>
             <p>Ya instalando ya sea Laragon o Xampp trabanjan desde el comando cdm de ellos,
-                por defento estos programas ya traen PHP 7
+                por defecto estos programas ya traen PHP 7
             </p>
         </div>
     </div>
